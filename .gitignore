@@ -1,4 +1,4 @@
-after-S05/
-final-after-S06/
-starter/node-modules/
-starter/package-lock.json
+/after-S05
+/final-after-S06
+/starter/node-modules
+/starter/package-lock.json
