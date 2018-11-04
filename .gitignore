@@ -1,5 +1,4 @@
-/after-S05
-/final-after-S06
-/starter/node_modules
-/starter/package-lock.json
-.gitignore
+after-S05/
+final-after-S06/
+starter/node-modules/
+starter/package-lock.json
